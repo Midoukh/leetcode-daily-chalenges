@@ -7,3 +7,5 @@
 ## Day 3 - https://leetcode.com/problems/reverse-integer/
 
 ## Day 4 - https://leetcode.com/problems/add-two-numbers/
+
+## Day 4-2 - https://leetcode.com/problems/two-sum/
