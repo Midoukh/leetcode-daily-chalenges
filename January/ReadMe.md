@@ -11,3 +11,5 @@
 ## Day 4-2 - https://leetcode.com/problems/two-sum/
 
 ## Day 5 - https://leetcode.com/problems/roman-to-integer/
+
+## Day 6 - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
