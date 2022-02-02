@@ -13,3 +13,5 @@
 ## Day 5 - https://leetcode.com/problems/roman-to-integer/
 
 ## Day 6 - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+## Day 7 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
