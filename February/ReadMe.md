@@ -5,3 +5,5 @@
 ## Day 2 - https://leetcode.com/problems/powx-n/
 
 ## Day 3 - https://leetcode.com/problems/rotate-image/
+
+## Day 4 - https://leetcode.com/problems/longest-palindromic-substring/
