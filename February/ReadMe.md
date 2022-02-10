@@ -9,3 +9,5 @@
 ## Day 4 - https://leetcode.com/problems/longest-palindromic-substring/
 
 ## Day 5 - https://leetcode.com/problems/zigzag-conversion/
+
+## Day 6 - https://leetcode.com/problems/merge-two-sorted-lists/
