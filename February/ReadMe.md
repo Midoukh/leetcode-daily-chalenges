@@ -13,3 +13,5 @@
 ## Day 6 - https://leetcode.com/problems/merge-two-sorted-lists/
 
 ## Day 7 - https://leetcode.com/problems/remove-element/
+
+## Day 8 - https://leetcode.com/problems/string-to-integer-atoi/
