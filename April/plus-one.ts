@@ -1,12 +1,7 @@
 const plusOne = (digits: number[]): number[] => {
-  const str = [...digits].join("");
-  const strToNum = BigInt(str);
-  console.log(str);
-  console.log(strToNum);
-  return (Number([...digits].join("")) + 1)
-    .toString()
-    .split("")
-    .map((item) => Number(item));
+  let num = BigInt(digits.join(""));
+  num++;
+  return Array.from(num.toString()).join().split(",").map(Number);
 };
 
 const plusOne2 = (digits: number[]): number[] => {
@@ -21,7 +16,7 @@ const plusOne2 = (digits: number[]): number[] => {
       if (digits[i] === 9 && i !== 0) {
         last += digits[i].toString();
       } else {
-        if (digits[i + 1] === 9) {
+        if (digits[i] === 9) {
           last += digits[i].toString();
         }
         res.splice(i);
