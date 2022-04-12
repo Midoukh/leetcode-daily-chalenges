@@ -7,3 +7,5 @@
 ## Day 3 - https://leetcode.com/problems/generate-parentheses/
 
 ## Day 4 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+
+## Day 5 - https://leetcode.com/problems/group-anagrams/
